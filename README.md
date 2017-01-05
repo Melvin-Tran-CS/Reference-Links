@@ -1,35 +1,13 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
-<style>
-body,h1 {font-family: "Raleway", sans-serif}
-body, html {height: 100%}
-.bgimg {
-    background-image: url('/w3images/forestbridge.jpg');
-    min-height: 100%;
-    background-position: center;
-    background-size: cover;
-}
-</style>
-<body>
-
-<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
-  <div class="w3-display-topleft w3-padding-large w3-xlarge">
-    Logo
-  </div>
-  <div class="w3-display-middle">
-    <h1 class="w3-jumbo w3-animate-top">COMING SOON</h1>
-    <hr class="w3-border-grey" style="margin:auto;width:40%">
-    <p class="w3-large w3-center">35 days left</p>
-  </div>
-  <div class="w3-display-bottomleft w3-padding-large">
-    Powered by <a href="http://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
-  </div>
-</div>
-
+<head>
+</head>
+<title>Reference Links</title>
+<body background="http://pre06.deviantart.net/3227/th/pre/f/2011/288/8/2/rage_guy_retarded_by_rober_raik-d4cxln0.png">
+<a href="http://na.op.gg/summoner/userName=EIcIco">op.gg profile</a>
+<a href="http://na.leagueoflegends.com/">League of legends official website</a>
+<a href="https://www.youtube.com/l">Youtube</a>
+<a href="http://leagueoflegends.wikia.com/wiki/League_of_Legends_Wiki">League of legends wikia</a>
+<a href="https://www.youtube.com/user/videogamedunkey">Videogamedunkey</a>
 </body>
 </html>
